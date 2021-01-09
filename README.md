@@ -12,6 +12,6 @@ This basic command is a hallmark of the beginning of a coding journey. A simple 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Python.org Python 3.9 standard library](https://docs.python.org/3/library/index.html)
-* [GitHug](https://github.com/)
+* [Python.org](https://www.python.org/)
+* [Python 3.9 Documentation](https://docs.python.org/3/library/index.html)
+* [GitHub.com](https://github.com/)
