@@ -2,7 +2,7 @@
 
 This basic command is a hallmark of the beginning of a coding journey. A simple print command outputs to the terminal the phrase "hello world". The purpose of this file is to show the correct integration of VS code, Python, Github and the use of Git. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_dcgWOb_ids)
 
 # Development Environment
 - Visual Studio Code
